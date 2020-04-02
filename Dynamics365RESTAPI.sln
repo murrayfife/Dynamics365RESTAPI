@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamics365RESTAPI", "Dynamics365RESTAPI\Dynamics365RESTAPI.csproj", "{4D3CA0E2-DE1E-4D03-A09E-CFDA8D7EBE0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D3CA0E2-DE1E-4D03-A09E-CFDA8D7EBE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3CA0E2-DE1E-4D03-A09E-CFDA8D7EBE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3CA0E2-DE1E-4D03-A09E-CFDA8D7EBE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3CA0E2-DE1E-4D03-A09E-CFDA8D7EBE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45DF8F51-AD23-493E-8B22-B9F093DD6674}
+	EndGlobalSection
+EndGlobal
